@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title{
+    text-align: center;
+    padding: 8px;
+    color: black;
+    background-color: white;
+}
+
+ul li{
+    margin: 8px;
+    list-style-type: circle;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+.home-link{
+    background-color: whitesmoke;
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+}
